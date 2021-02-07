@@ -482,7 +482,7 @@ a97f541aaaef8bbaf7adc0b460f4886c   /vendor/etc/qdcm_calib_data_nt36525_truly_hdp
 0ba48ff9f7e173f8429cc9f2885a20c7   /vendor/etc/r_submix_audio_policy_configuration.xml
 9715c219e783723f50b067e38c870ffc   /vendor/etc/sap.conf
 167334539a47cc340481b96c3f6194b2   /vendor/etc/sec_config
-52690ec3cdfd16925c3e11e80d64f1a2   /vendor/etc/seccomp_policy/configstore@1.1.policy
+#52690ec3cdfd16925c3e11e80d64f1a2   /vendor/etc/seccomp_policy/configstore@1.1.policy
 39b954d80e5ac1c7b9739070d8369044   /vendor/etc/seccomp_policy/mediacodec.policy
 5df5ecfa66b3a743e5a305b8fce88e76   /vendor/etc/seccomp_policy/mediaextractor.policy
 e77ca179f6f7942048d575a85f389c59   /vendor/etc/security/pl.fs
