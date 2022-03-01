@@ -283,7 +283,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/RMX1805/proprietary/vendor/bin/hw/android.hardware.thermal@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.thermal@1.0-service \
     vendor/oppo/RMX1805/proprietary/vendor/bin/hw/android.hardware.vibrator@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.vibrator@1.0-service \
     vendor/oppo/RMX1805/proprietary/vendor/bin/hw/qcrild:$(TARGET_COPY_OUT_VENDOR)/bin/hw/qcrild \
-    vendor/oppo/RMX1805/proprietary/vendor/bin/hw/rild:$(TARGET_COPY_OUT_VENDOR)/bin/hw/rild \
+    #vendor/oppo/RMX1805/proprietary/vendor/bin/hw/rild:$(TARGET_COPY_OUT_VENDOR)/bin/hw/rild \
     vendor/oppo/RMX1805/proprietary/vendor/bin/hw/vendor.display.color@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.display.color@1.0-service \
     vendor/oppo/RMX1805/proprietary/vendor/bin/hw/vendor.oppo.engnative.engineer@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.oppo.engnative.engineer@1.0-service \
     vendor/oppo/RMX1805/proprietary/vendor/bin/hw/vendor.oppo.engnative.engsensor@1.0-service:$(TARGET_COPY_OUT_VENDOR)/bin/hw/vendor.oppo.engnative.engsensor@1.0-service \
@@ -509,7 +509,7 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/RMX1805/proprietary/vendor/etc/init/hw/init.oppo.vendor.fingerprint.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/hw/init.oppo.vendor.fingerprint.rc \
     vendor/oppo/RMX1805/proprietary/vendor/etc/init/manifest_sku.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/manifest_sku.rc \
     vendor/oppo/RMX1805/proprietary/vendor/etc/init/qcrild.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/qcrild.rc \
-    vendor/oppo/RMX1805/proprietary/vendor/etc/init/rild.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/rild.rc \
+    #vendor/oppo/RMX1805/proprietary/vendor/etc/init/rild.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/rild.rc \
     vendor/oppo/RMX1805/proprietary/vendor/etc/init/self-init.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/self-init.rc \
     vendor/oppo/RMX1805/proprietary/vendor/etc/init/vendor.display.color@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.display.color@1.0-service.rc \
     vendor/oppo/RMX1805/proprietary/vendor/etc/init/vendor.oppo.engnative.engineer@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.oppo.engnative.engineer@1.0-service.rc \
